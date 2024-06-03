@@ -11,7 +11,7 @@ $ ls
 id_rsa  id_rsa.pub
 
 ## Visualizer os arquivos com detalhes
-$ll
+$ ll //são 2 L minuscucos
 > -rw-r--r-- 1 Pedro Bento 197121 2622 Feb 21 17:43 id_rsa
 > -rw-r--r-- 1 Pedro Bento 197121  581 Feb 21 17:43 id_rsa.pub
 
