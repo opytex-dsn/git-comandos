@@ -1,6 +1,9 @@
 # GERENCIAMENTO DE COMMITS
 > Comandos para gerenciar os commits.
 
+## Adicionando pastas, subpastas e arquivos ao repositório.
+$ git add .
+
 ## Comando para commit rápido com parametros -a -m que fará ADD e incluirá mensagem e um alinha de comando apenas:
 $ git commit -a -m "Incluido instrução de commit rapido."
 
